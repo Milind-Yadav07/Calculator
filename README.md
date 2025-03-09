@@ -1,4 +1,5 @@
 # Calculator
+This repository contains the code for a simple calculator built using HTML, CSS and JavaScript it provides basic functionality for addition, subtraction, multiplication and division
 
 
 # Features
