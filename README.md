@@ -1,7 +1,6 @@
 # Calculator
 This repository contains the code for a simple calculator built using HTML, CSS and JavaScript it provides basic functionality for addition, subtraction, multiplication and division
 
-
 # Features
 1: performs basic arithmetic operations\
 2: clear and user friendly interface with buttons for numbers and operators\
