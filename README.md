@@ -7,7 +7,9 @@ This repository contains the code for a simple calculator built using HTML, CSS 
 3: live display to show the current calculation
 
 # Usage
-
+1: click on the number buttons to enter values\
+2: click on the operator button to perform calculations\
+3: the result will be displayed in the designated area on the calculator interface
 
 # Additional notes
 1: feel free to customize the HTML, CSS and JavaScript code to modify the calculators appearance and functionality\
